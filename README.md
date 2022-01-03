@@ -37,7 +37,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: https://github.com/Nnenna-udefi/Huddle-landing-introductory-page.git
 - Live Site URL: https://huddle-landing-introductory-page.vercel.app/
 
 ## My process
