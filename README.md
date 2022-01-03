@@ -30,13 +30,15 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./screenshot.jpg)![huddle desktop design](https://user-images.githubusercontent.com/68693000/147937720-2d8833ce-297f-4f36-9347-9ad5025a55ec.jpg)
+![huddle mobie design](https://user-images.githubusercontent.com/68693000/147937733-99bfbc51-30a4-4613-a981-d19967c4eabe.jpg)
+
 
 
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: https://huddle-landing-introductory-page.vercel.app/
 
 ## My process
 
@@ -80,8 +82,7 @@ Use of Flexbox and CSS grid
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - [Nnenna Miriam Udefi]https://github.com/Nnenna-udefi
+- Frontend Mentor - [@nnenna-udefi]https://www.frontendmentor.io/profile/Nnenna-udefi
 
 
